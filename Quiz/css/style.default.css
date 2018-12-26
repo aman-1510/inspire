@@ -1938,7 +1938,7 @@ body {
 }
 
 #heading-breadcrumbs {
-    background-color: #f7931e;
+    background-color: #e97432;
     padding: 5px 0;
 }
 
@@ -4890,8 +4890,6 @@ footer ul.link-list li i {
     left: 0;
     width: 100%;
     height: 90%;
-    background: #012B55;
-    opacity: .9;
     padding: 50px;
 }
 
