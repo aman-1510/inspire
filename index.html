@@ -110,7 +110,7 @@
                 e.preventDefault();
                 if ($('#drpNatureofExam').val() == 'JEE') {
                     temp = $('#drpPastPaper_jee').val();
-                    window.location.href = "JEEMain_login.html?type=" + btoa(temp);
+                    window.location.href = "JEEMain_login.php?type=" + btoa(temp);
                 } else {
                     temp = $('#drpPastPaper_ugc').val();
                     window.location.href = "UGCNET_login.html?type=" + btoa(temp);
